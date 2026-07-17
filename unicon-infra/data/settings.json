@@ -1,0 +1,32 @@
+{
+  "siteName": "Unicon Infra",
+  "tagline": "Redefining Luxury Living",
+  "phone": "+91 98765 43210",
+  "email": "info@uniconinfra.com",
+  "address": "Unicon Towers, Sector 44, Gurugram, Haryana, India",
+  "siteIcon": "/favicon.ico",
+  "logo": "",
+  "social": {
+    "instagram": "https://instagram.com",
+    "facebook": "https://facebook.com",
+    "linkedin": "https://linkedin.com",
+    "youtube": "https://youtube.com"
+  },
+  "instagramEmbedCode": "",
+  "youtubeChannelUrl": "",
+  "theme": {
+    "colors": {
+      "gold": "#C8A96A",
+      "goldLight": "#E4CFA0",
+      "goldDark": "#9C7C43",
+      "black": "#000000",
+      "charcoal": "#0A0A0A",
+      "panel": "#111111",
+      "ivory": "#F5F2EC"
+    },
+    "fonts": {
+      "display": "Playfair Display",
+      "body": "Inter"
+    }
+  }
+}

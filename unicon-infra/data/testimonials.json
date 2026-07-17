@@ -1,0 +1,38 @@
+[
+  {
+    "id": "tm1",
+    "name": "Arjun Malhotra",
+    "role": "Owner, Skyline Residences",
+    "quote": "Unicon Infra delivered beyond expectation — the craftsmanship, the timelines, the transparency. It genuinely feels like a five-star hotel that I get to call home.",
+    "image": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?q=80&w=400&auto=format&fit=crop",
+    "rating": 5,
+    "order": 1
+  },
+  {
+    "id": "tm2",
+    "name": "Priya Nair",
+    "role": "Investor",
+    "quote": "From site visit to possession, every step was seamless. The ROI on my Business Bay unit has outperformed every projection they gave us.",
+    "image": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?q=80&w=400&auto=format&fit=crop",
+    "rating": 5,
+    "order": 2
+  },
+  {
+    "id": "tm3",
+    "name": "Rohan & Simran Kapoor",
+    "role": "Owners, Unicon Hills Villas",
+    "quote": "The villa exceeded every render we were shown. The attention to detail in the natural stone work and landscaping is unmatched in the region.",
+    "image": "https://images.unsplash.com/photo-1522075469751-3a6694fb2f61?q=80&w=400&auto=format&fit=crop",
+    "rating": 5,
+    "order": 3
+  },
+  {
+    "id": "tm4",
+    "name": "Vikram Sethi",
+    "role": "CEO, Sethi Enterprises",
+    "quote": "Our office at Business Bay has elevated our brand image with every client visit. Best commercial decision we've made in a decade.",
+    "image": "https://images.unsplash.com/photo-1560250097-0b93528c311a?q=80&w=400&auto=format&fit=crop",
+    "rating": 5,
+    "order": 4
+  }
+]

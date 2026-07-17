@@ -1,0 +1,98 @@
+[
+  {
+    "page": "home",
+    "label": "Home",
+    "title": "Premium Luxury Real Estate in India",
+    "description": "Discover Unicon Infra's exclusive residences, villas, commercial towers and townships. Where architecture meets art.",
+    "keywords": "luxury real estate, Unicon Infra, luxury apartments Gurugram, premium villas India, luxury property developer",
+    "ogImage": "https://images.unsplash.com/photo-1613490493576-7fde63acd811?q=80&w=1600&auto=format&fit=crop"
+  },
+  {
+    "page": "about",
+    "label": "About",
+    "title": "About Us",
+    "description": "Learn about Unicon Infra's journey since 2007 — building India's most iconic luxury residences, villas and commercial landmarks.",
+    "keywords": "about Unicon Infra, luxury developer India, real estate company Gurugram",
+    "ogImage": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?q=80&w=1600&auto=format&fit=crop"
+  },
+  {
+    "page": "projects",
+    "label": "Projects",
+    "title": "Our Projects",
+    "description": "Explore Unicon Infra's portfolio of luxury residences, villas, commercial towers and townships across India.",
+    "keywords": "luxury projects India, residential towers Gurugram, luxury villas, commercial real estate",
+    "ogImage": "https://images.unsplash.com/photo-1613490493576-7fde63acd811?q=80&w=1600&auto=format&fit=crop"
+  },
+  {
+    "page": "joint-ventures",
+    "label": "Joint Ventures",
+    "title": "Joint Ventures",
+    "description": "Meet the capital, construction and design partners Unicon Infra collaborates with to deliver landmark developments across India.",
+    "keywords": "Unicon Infra partners, joint venture real estate, construction partners, capital partners India",
+    "ogImage": "https://images.unsplash.com/photo-1521737711867-e3b97375f902?q=80&w=1600&auto=format&fit=crop"
+  },
+  {
+    "page": "services",
+    "label": "Services",
+    "title": "Our Services",
+    "description": "From luxury residential development to investment advisory — explore the full range of services offered by Unicon Infra.",
+    "keywords": "real estate services, property development, interior design, investment advisory",
+    "ogImage": "https://images.unsplash.com/photo-1497366216548-37526070297c?q=80&w=1600&auto=format&fit=crop"
+  },
+  {
+    "page": "gallery",
+    "label": "Gallery",
+    "title": "Gallery",
+    "description": "Browse photographs of Unicon Infra's residences, villas, commercial towers and townships.",
+    "keywords": "luxury real estate gallery, project photos, architecture photography",
+    "ogImage": "https://images.unsplash.com/photo-1600566753086-00f18fb6b3ea?q=80&w=1600&auto=format&fit=crop"
+  },
+  {
+    "page": "blog",
+    "label": "Blog",
+    "title": "Blog & Insights",
+    "description": "Perspectives on luxury real estate, architecture, and investment from the Unicon Infra journal.",
+    "keywords": "real estate blog, luxury living, investment insights, architecture articles",
+    "ogImage": "https://images.unsplash.com/photo-1560518883-ce09059eeffa?q=80&w=1600&auto=format&fit=crop"
+  },
+  {
+    "page": "faqs",
+    "label": "FAQs",
+    "title": "Frequently Asked Questions",
+    "description": "Find answers to common questions about buying, financing, and investing in Unicon Infra properties.",
+    "keywords": "real estate FAQ, buying process, home loan, RERA",
+    "ogImage": "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?q=80&w=1600&auto=format&fit=crop"
+  },
+  {
+    "page": "contact",
+    "label": "Contact",
+    "title": "Contact Us",
+    "description": "Get in touch with Unicon Infra to schedule a site visit or speak with our real estate advisory team.",
+    "keywords": "contact Unicon Infra, site visit, real estate advisor Gurugram",
+    "ogImage": "https://images.unsplash.com/photo-1600585154526-990dced4db0d?q=80&w=1600&auto=format&fit=crop"
+  },
+  {
+    "page": "founder",
+    "label": "Founder",
+    "title": "Our Founder",
+    "description": "Meet Mr. Dinesh Baral, Founder of Unicon Infra Group and a leading real estate investment strategist in the Dholera SIR corridor.",
+    "keywords": "Dinesh Baral, Unicon Infra founder, Dholera SIR investment, real estate strategist",
+    "ogImage": "https://images.unsplash.com/photo-1541888946425-d81bb19240f5?q=80&w=1600&auto=format&fit=crop"
+  },
+  {
+    "page": "privacy-policy",
+    "label": "Privacy Policy",
+    "title": "Privacy Policy",
+    "description": "Read Unicon Infra's privacy policy regarding data collection and usage.",
+    "keywords": "privacy policy, data protection",
+    "ogImage": ""
+  },
+  {
+    "page": "terms-conditions",
+    "label": "Terms & Conditions",
+    "title": "Terms & Conditions",
+    "description": "Read the terms and conditions governing the use of the Unicon Infra website.",
+    "keywords": "terms and conditions, legal",
+    "ogImage": ""
+  }
+]

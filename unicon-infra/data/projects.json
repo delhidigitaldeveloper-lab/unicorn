@@ -1,0 +1,206 @@
+[
+  {
+    "id": "unicon-skyline-residences",
+    "slug": "unicon-skyline-residences",
+    "name": "Unicon Skyline Residences",
+    "location": "Golf Course Road, Gurugram",
+    "category": "Residential",
+    "status": "Ongoing",
+    "priceRange": "₹3.2 Cr – ₹8.5 Cr",
+    "coverImage": "https://images.unsplash.com/photo-1613490493576-7fde63acd811?q=80&w=1600&auto=format&fit=crop",
+    "gallery": [
+      "https://images.unsplash.com/photo-1613977257363-707ba9348227?q=80&w=1400&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?q=80&w=1400&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?q=80&w=1400&auto=format&fit=crop"
+    ],
+    "shortDescription": "Sky-high residences with panoramic golf course views and five-star amenities.",
+    "description": "Unicon Skyline Residences is an architectural landmark offering 3, 4 & 5 BHK ultra-luxury apartments and penthouses. Every residence is designed with double-height living rooms, floor-to-ceiling glass facades, and private sky decks overlooking the golf course. The tower is engineered for seismic safety and equipped with smart-home automation throughout.",
+    "amenities": [
+      "Infinity Sky Pool",
+      "Private Cinema",
+      "Wellness Spa & Sauna",
+      "Golf Simulator Lounge",
+      "24/7 Concierge",
+      "3-Tier Security",
+      "EV Charging Bays",
+      "Rooftop Sky Garden"
+    ],
+    "specifications": [
+      {
+        "label": "Structure",
+        "value": "RCC Earthquake Resistant Frame"
+      },
+      {
+        "label": "Flooring",
+        "value": "Italian Marble"
+      },
+      {
+        "label": "Kitchen",
+        "value": "Modular with Premium Fittings"
+      },
+      {
+        "label": "Facade",
+        "value": "Double Glazed Curtain Wall"
+      }
+    ],
+    "area": "2,450 – 6,200 sq.ft.",
+    "units": "180 Residences",
+    "possession": "Dec 2027",
+    "lat": 28.4595,
+    "lng": 77.0726,
+    "order": 1
+  },
+  {
+    "id": "the-uniconhills-villas",
+    "slug": "the-uniconhills-villas",
+    "name": "The Unicon Hills Villas",
+    "location": "Aravalli Foothills, Faridabad",
+    "category": "Villas",
+    "status": "Ongoing",
+    "priceRange": "₹5.8 Cr – ₹12 Cr",
+    "coverImage": "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?q=80&w=1600&auto=format&fit=crop",
+    "gallery": [
+      "https://images.unsplash.com/photo-1600585154526-990dced4db0d?q=80&w=1400&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1613553497126-a44624272024?q=80&w=1400&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1600566753086-00f18fb6b3ea?q=80&w=1400&auto=format&fit=crop"
+    ],
+    "shortDescription": "Private hillside villas with landscaped gardens and infinity pools.",
+    "description": "Nestled against the Aravalli hills, The Unicon Hills Villas offer an exclusive enclave of 40 independent villas — each with a private pool, landscaped courtyard, and panoramic hill views. Designed by award-winning architects, these homes blend contemporary luxury with natural stone textures.",
+    "amenities": [
+      "Private Infinity Pool",
+      "Landscaped Courtyard",
+      "Home Theatre",
+      "Staff Quarters",
+      "Clubhouse Access",
+      "Nature Trails",
+      "Gated Community",
+      "Solar Power Backup"
+    ],
+    "specifications": [
+      {
+        "label": "Plot Size",
+        "value": "4,500 – 7,200 sq.ft."
+      },
+      {
+        "label": "Flooring",
+        "value": "Natural Stone & Teak Wood"
+      },
+      {
+        "label": "Windows",
+        "value": "UPVC Triple Glazed"
+      },
+      {
+        "label": "Roofing",
+        "value": "Insulated Composite"
+      }
+    ],
+    "area": "5,800 – 9,400 sq.ft.",
+    "units": "40 Villas",
+    "possession": "Mar 2028",
+    "lat": 28.3894,
+    "lng": 77.3178,
+    "order": 2
+  },
+  {
+    "id": "unicon-business-bay",
+    "slug": "unicon-business-bay",
+    "name": "Unicon Business Bay",
+    "location": "Cyber City, Gurugram",
+    "category": "Commercial",
+    "status": "Completed",
+    "priceRange": "₹1.1 Cr – ₹4.6 Cr",
+    "coverImage": "https://images.unsplash.com/photo-1497366216548-37526070297c?q=80&w=1600&auto=format&fit=crop",
+    "gallery": [
+      "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?q=80&w=1400&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1497366811353-6870744d04b2?q=80&w=1400&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1449157291145-7efd050a4d0e?q=80&w=1400&auto=format&fit=crop"
+    ],
+    "shortDescription": "Grade-A office spaces and retail units in the heart of the business district.",
+    "description": "Unicon Business Bay is a LEED Gold certified commercial landmark offering premium office floors, retail storefronts, and a rooftop food court. Designed for modern enterprises, the tower features column-free floor plates, high-speed elevators, and dedicated server rooms.",
+    "amenities": [
+      "Column-Free Floor Plates",
+      "High-Speed Elevators",
+      "Food Court",
+      "Conference Facilities",
+      "Ample Parking",
+      "24/7 Power Backup",
+      "Green Certified",
+      "Business Lounge"
+    ],
+    "specifications": [
+      {
+        "label": "Floor Plate",
+        "value": "18,000 sq.ft. Column Free"
+      },
+      {
+        "label": "Ceiling Height",
+        "value": "3.6m Clear"
+      },
+      {
+        "label": "Parking",
+        "value": "1:600 sq.ft. Ratio"
+      },
+      {
+        "label": "Certification",
+        "value": "LEED Gold"
+      }
+    ],
+    "area": "500 – 12,000 sq.ft.",
+    "units": "12 Floors",
+    "possession": "Delivered 2023",
+    "lat": 28.4949,
+    "lng": 77.0871,
+    "order": 3
+  },
+  {
+    "id": "unicon-riverside-township",
+    "slug": "unicon-riverside-township",
+    "name": "Unicon Riverside Township",
+    "location": "Yamuna Expressway, Noida",
+    "category": "Township",
+    "status": "Upcoming",
+    "priceRange": "₹85 Lac – ₹3.8 Cr",
+    "coverImage": "https://images.unsplash.com/photo-1560518883-ce09059eeffa?q=80&w=1600&auto=format&fit=crop",
+    "gallery": [
+      "https://images.unsplash.com/photo-1592595896551-12b371d546d5?q=80&w=1400&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1580587771525-78b9dba3b914?q=80&w=1400&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1600047509807-ba8f99d2cdde?q=80&w=1400&auto=format&fit=crop"
+    ],
+    "shortDescription": "A self-sustained riverside township with schools, retail & parks.",
+    "description": "Unicon Riverside Township is a 45-acre integrated development featuring residential towers, villas, a central park, an international school, and a retail high-street — all connected by tree-lined boulevards along the riverside promenade.",
+    "amenities": [
+      "45-Acre Green Township",
+      "International School",
+      "Retail High Street",
+      "Central Park",
+      "Riverside Promenade",
+      "Multiplex",
+      "Sports Academy",
+      "Community Hospital"
+    ],
+    "specifications": [
+      {
+        "label": "Township Area",
+        "value": "45 Acres"
+      },
+      {
+        "label": "Open Space",
+        "value": "60% Green Cover"
+      },
+      {
+        "label": "Configurations",
+        "value": "2, 3, 4 BHK + Villas"
+      },
+      {
+        "label": "Roads",
+        "value": "24m & 18m Boulevards"
+      }
+    ],
+    "area": "950 – 4,200 sq.ft.",
+    "units": "2,400 Homes",
+    "possession": "2029 (Phase 1)",
+    "lat": 28.4089,
+    "lng": 77.5011,
+    "order": 4
+  }
+]

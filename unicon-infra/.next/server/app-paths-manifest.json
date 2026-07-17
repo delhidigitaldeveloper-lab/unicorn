@@ -1,0 +1,9 @@
+{
+  "/api/admin/auth/login/route": "app/api/admin/auth/login/route.js",
+  "/api/admin/auth/logout/route": "app/api/admin/auth/logout/route.js",
+  "/(site)/joint-ventures/page": "app/(site)/joint-ventures/page.js",
+  "/admin/login/page": "app/admin/login/page.js",
+  "/admin/(dashboard)/page": "app/admin/(dashboard)/page.js",
+  "/admin/(dashboard)/joint-ventures/[id]/page": "app/admin/(dashboard)/joint-ventures/[id]/page.js",
+  "/admin/(dashboard)/joint-ventures/page": "app/admin/(dashboard)/joint-ventures/page.js"
+}

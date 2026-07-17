@@ -1,0 +1,30 @@
+[
+  {
+    "id": "t1",
+    "name": "Rajeev Ahluwalia",
+    "role": "Founder & Chairman",
+    "image": "https://images.unsplash.com/photo-1560250097-0b93528c311a?q=80&w=600&auto=format&fit=crop",
+    "order": 1
+  },
+  {
+    "id": "t2",
+    "name": "Meera Chandran",
+    "role": "Chief Architect",
+    "image": "https://images.unsplash.com/photo-1573497019940-1c28c88b4f3e?q=80&w=600&auto=format&fit=crop",
+    "order": 2
+  },
+  {
+    "id": "t3",
+    "name": "Karan Bedi",
+    "role": "Chief Operating Officer",
+    "image": "https://images.unsplash.com/photo-1519085360753-af0119f7cbe7?q=80&w=600&auto=format&fit=crop",
+    "order": 3
+  },
+  {
+    "id": "t4",
+    "name": "Ayesha Khan",
+    "role": "Head of Design",
+    "image": "https://images.unsplash.com/photo-1580489944761-15a19d654956?q=80&w=600&auto=format&fit=crop",
+    "order": 4
+  }
+]

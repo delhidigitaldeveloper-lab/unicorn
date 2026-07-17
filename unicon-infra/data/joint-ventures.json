@@ -1,0 +1,26 @@
+[
+  {
+    "id": "jv_1",
+    "name": "Meridian Capital Partners",
+    "logo": "https://ui-avatars.com/api/?name=Meridian+Capital&background=0A0A0A&color=C8A96A&size=256&bold=true&font-size=0.4",
+    "description": "A global real estate investment firm co-developing Unicon Infra's flagship commercial towers, bringing institutional-grade capital and international design standards to every project.",
+    "website": "",
+    "order": 1
+  },
+  {
+    "id": "jv_2",
+    "name": "Alderwood Construction Group",
+    "logo": "https://ui-avatars.com/api/?name=Alderwood&background=0A0A0A&color=C8A96A&size=256&bold=true&font-size=0.4",
+    "description": "Our construction and engineering partner of over a decade, delivering precision execution across residential towers, villas and integrated townships.",
+    "website": "",
+    "order": 2
+  },
+  {
+    "id": "jv_3",
+    "name": "Sable & Finch Design Studio",
+    "logo": "https://ui-avatars.com/api/?name=Sable+Finch&background=0A0A0A&color=C8A96A&size=256&bold=true&font-size=0.4",
+    "description": "An award-winning architecture and interiors studio collaborating with Unicon Infra to craft distinctive facades and premium living spaces.",
+    "website": "",
+    "order": 3
+  }
+]
