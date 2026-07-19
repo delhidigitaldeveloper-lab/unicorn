@@ -7,7 +7,7 @@ export default function MapEmbed({
   lng: number;
   label?: string;
 }) {
-  const src = `https://maps.google.com/maps?q=${lat},${lng}&z=14&output=embed`;
+  const src = `https://maps.app.goo.gl/eaFLGdPr6gDZdHCZ9`;
 
   return (
     <div className="relative h-72 md:h-96 rounded-2xl overflow-hidden gold-border">
