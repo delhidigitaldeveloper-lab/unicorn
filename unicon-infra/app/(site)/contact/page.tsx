@@ -64,7 +64,7 @@ export default async function ContactPage() {
         <div className="container-luxury">
           <SectionHeading eyebrow="Find Us" title="Our Corporate Office" />
           <div className="mt-10">
-            <MapEmbed lat={28.4595} lng={77.0726} label="Unicon Infra Head Office" />
+            <MapEmbed lat={23.0511341} lng={72.5188911} label="Unicon Infra Head Office" />
           </div>
         </div>
       </section>
