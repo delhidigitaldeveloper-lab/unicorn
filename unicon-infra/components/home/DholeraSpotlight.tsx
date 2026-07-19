@@ -58,7 +58,7 @@ export default function DholeraSpotlight() {
           className="relative h-[420px] md:h-[520px] rounded-2xl overflow-hidden gold-border"
         >
           <Image
-            src="https://images.unsplash.com/photo-1477959858617-67f85cf4f1df?q=80&w=1200&auto=format&fit=crop"
+            src="https://drive.google.com/file/d/1kFiwF8hC2NT4s5Ko1hVtcn5E_Rn8KbDs/view?usp=drive_link"
             alt="Dholera SIR smart city development"
             fill
             className="object-cover"
