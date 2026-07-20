@@ -19,7 +19,7 @@ export default function AboutSection() {
         >
           <div className="relative h-[420px] md:h-[560px] rounded-2xl overflow-hidden gold-border">
             <Image
-              src="https://images.unsplash.com/photo-1600585154340-be6161a56a0c?q=80&w=1200&auto=format&fit=crop"
+              src="/Images/unicorn-about.webp"
               alt="Unicon Infra architecture"
               fill
               className="object-cover"
