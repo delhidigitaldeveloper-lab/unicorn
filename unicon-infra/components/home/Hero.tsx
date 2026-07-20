@@ -4,37 +4,19 @@ import dynamic from "next/dynamic";
 import { motion } from "framer-motion";
 import { HiArrowDown } from "react-icons/hi";
 import Button from "@/components/ui/Button";
-import HeroMediaSlideshow, { HeroSlide } from "./HeroMediaSlideshow";
 
 const HeroScene = dynamic(() => import("./HeroScene"), { ssr: false });
-
-const HERO_SLIDES: HeroSlide[] = [
-  {
-    video: "/videos/hero-abcd-building.mp4",
-    poster:
-      "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?q=80&w=1920&auto=format&fit=crop",
-    label: "The ABCD Building",
-  },
-  {
-    video: "/videos/hero-dholera-expressway.mp4",
-    poster:
-      "https://images.unsplash.com/photo-1541888946425-d81bb19240f5?q=80&w=1920&auto=format&fit=crop",
-    label: "Ahmedabad–Dholera Expressway",
-  },
-  {
-    video: "/videos/hero-unicon-gates.mp4",
-    poster:
-      "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?q=80&w=1920&auto=format&fit=crop",
-    label: "Unicon Infra Project Gates",
-  },
-];
 
 const wordReveal = {
   hidden: { opacity: 0, y: 40 },
   visible: (i: number) => ({
     opacity: 1,
     y: 0,
-    transition: { delay: 0.3 + i * 0.12, duration: 0.9, ease: [0.22, 1, 0.36, 1] },
+    transition: {
+      delay: 0.3 + i * 0.12,
+      duration: 0.9,
+      ease: [0.22, 1, 0.36, 1],
+    },
   }),
 };
 
@@ -49,23 +31,33 @@ export default function Hero() {
     { text: "Smart", gold: true },
     { text: "City.", gold: true },
   ];
+
   const pillars = ["Elegance", "Trust", "Guaranteed Appreciation"];
 
   return (
     <section className="relative h-screen w-full flex items-center justify-center overflow-hidden bg-black">
-      {/* Layer 1: cinematic drone-footage background, cross-dissolving between
-          the ABCD Building, the Ahmedabad–Dholera Expressway and the Unicon
-          Infra project gates (falls back to poster images automatically for
-          any clip not yet added under /public/videos/) */}
-      <HeroMediaSlideshow slides={HERO_SLIDES} />
+      {/* Background Video */}
+      <video
+        className="absolute inset-0 w-full h-full object-cover"
+        autoPlay
+        muted
+        loop
+        playsInline
+        preload="auto"
+        poster="/images/hero-poster.webp"
+      >
+        <source src="/videos/hero-background.mp4" type="video/mp4" />
+        Your browser does not support the video tag.
+      </video>
 
-      {/* Layer 2: subtle floating gold particles for cinematic depth */}
+      {/* Gold Particles */}
       <HeroScene particleCount={500} />
 
-      {/* Layer 3: gradient scrim for text legibility over any footage */}
+      {/* Dark Overlay */}
       <div className="absolute inset-0 bg-gradient-to-b from-black/70 via-black/30 to-black z-[2]" />
       <div className="absolute inset-0 bg-gradient-to-t from-black/50 via-transparent to-black/20 z-[2]" />
 
+      {/* Hero Content */}
       <div className="container-luxury relative z-10 text-center">
         <motion.p
           initial={{ opacity: 0, y: 10 }}
@@ -120,13 +112,17 @@ export default function Hero() {
         </motion.div>
       </div>
 
+      {/* Scroll Indicator */}
       <motion.div
         initial={{ opacity: 0 }}
         animate={{ opacity: 1 }}
         transition={{ delay: 1.8, duration: 1 }}
         className="absolute bottom-10 left-1/2 -translate-x-1/2 z-10 flex flex-col items-center gap-2 text-white/40"
       >
-        <span className="text-[10px] tracking-[0.3em] uppercase">Scroll</span>
+        <span className="text-[10px] tracking-[0.3em] uppercase">
+          Scroll
+        </span>
+
         <motion.div
           animate={{ y: [0, 8, 0] }}
           transition={{ repeat: Infinity, duration: 1.8 }}
