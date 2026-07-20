@@ -59,7 +59,7 @@ export default function InvestmentBenefits() {
           className="relative h-[460px] md:h-[560px] rounded-2xl overflow-hidden gold-border"
         >
           <Image
-            src="https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?q=80&w=1200&auto=format&fit=crop"
+            src="/Images/The Mercury.webp"
             alt="Investment growth"
             fill
             className="object-cover"
